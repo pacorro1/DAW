@@ -1,0 +1,26 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetTimeImage</title>
+</head>
+<body>
+    <div>
+     @if (ViewBag.hora < 12)
+     { 
+         <!--imagen del sol-->
+          <img style="width: 579px; height: 318px;" alt="o3" src="~/Static/1.png">
+     }
+     else
+     { 
+         <!--imagen de la luna-->
+    <img style="width: 579px; height: 318px;" alt="o3" src=".~/Static/linux.jpg">
+     }
+    </div>
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pk0EmptyWeb_", "Pk0EmptyWeb_\Pk0EmptyWeb_.csproj", "{48F7E5E4-E190-4D0F-B2C9-523240E123C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pk1_PartyInvites", "Pk1_PartyInvites\Pk1_PartyInvites.csproj", "{E90C89E3-EF94-4645-BCF5-F11CFCB635D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pk2_RSUPwapp", "Pk2_RSUPwapp\Pk2_RSUPwapp.csproj", "{69DE8DA5-DE8C-44AF-A4C2-E8A651059E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F7E5E4-E190-4D0F-B2C9-523240E123C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F7E5E4-E190-4D0F-B2C9-523240E123C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F7E5E4-E190-4D0F-B2C9-523240E123C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F7E5E4-E190-4D0F-B2C9-523240E123C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90C89E3-EF94-4645-BCF5-F11CFCB635D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90C89E3-EF94-4645-BCF5-F11CFCB635D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90C89E3-EF94-4645-BCF5-F11CFCB635D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90C89E3-EF94-4645-BCF5-F11CFCB635D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DE8DA5-DE8C-44AF-A4C2-E8A651059E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DE8DA5-DE8C-44AF-A4C2-E8A651059E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DE8DA5-DE8C-44AF-A4C2-E8A651059E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DE8DA5-DE8C-44AF-A4C2-E8A651059E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
